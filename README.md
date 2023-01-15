@@ -1,2 +1,2 @@
-# mern-skeleteon
+# mern-skeleton
 Im learn MERN again!!!!
